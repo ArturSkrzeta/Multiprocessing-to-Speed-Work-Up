@@ -11,7 +11,12 @@
 <ul>
   <li>Credits go to http://coreyms.com/</li>
   <br>
-  <img src="images/multiprocessing.JPG">
+  <table>
+    <tr>
+      <th> <img src="images/multiprocessing.JPG"></th>
+      <th> <img src="images/synchronous.JPG"></th>
+    </tr>
+  </table>
 </ul>
 
 
