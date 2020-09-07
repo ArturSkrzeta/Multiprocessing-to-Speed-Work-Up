@@ -13,6 +13,10 @@
   <br>
   <table>
     <tr>
+      <th>Multiprocessing</th>
+      <th>Synchronoues execution</th>
+    </tr>
+    <tr>
       <th> <img src="images/multiprocessing.JPG"></th>
       <th> <img src="images/synchronous.JPG"></th>
     </tr>
