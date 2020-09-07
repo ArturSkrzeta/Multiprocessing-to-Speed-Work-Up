@@ -6,7 +6,7 @@
   <li>It can be done either in standard synchronous way of looping through files or by resizing all filess at onece utilising multiprocessing.</li>
   <li>Dividing main proces into many sub-processes running in parallel saves a lot of time.</li>
   <br>
-  <img src="images/cpus">
+  <img src="images/cpus.JPG">
 </ul>
 
 <h3>Comparison</h3>
