@@ -7,7 +7,7 @@
   <li>Dividing main proces into many sub-processes running in parallel saves a lot of time.</li>
 </ul>
 
-<h3>Multiprocessing</h3>
+<h3>Comparison</h3>
 <ul>
   <li>Credits go to http://coreyms.com/</li>
   <br>
