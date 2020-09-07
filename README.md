@@ -7,6 +7,12 @@
   <li>Dividing main proces into many sub-processes running in parallel saves a lot of time.</li>
 </ul>
 
+<h3>Multiprocessing</h3>
+<ul>
+  <img src="images/multiprocessing.JPG">
+</ul>
+
+
 <h3>Demo</h3>
 <ul>
   <li>With standard synchronous process using foor loop through the collection of file, resizing all the images takes 30 secs.</li>
