@@ -9,6 +9,8 @@
 
 <h3>Multiprocessing</h3>
 <ul>
+  <li>Credits go to http://coreyms.com/</li>
+  <br>
   <img src="images/multiprocessing.JPG">
 </ul>
 
