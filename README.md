@@ -31,4 +31,6 @@
   <li>With multiprocessing, resizing all the images takes abot 9 secs.</li>
   <br>
   <img src="images/demo.JPG">
+  <br>
+  <li>Script takes original images from one direction, resizes it and places processed images in 'done' folder.</li>
 </ul>
